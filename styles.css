@@ -1,0 +1,68 @@
+*{
+	box-sizing: border-box;
+}
+.header , .footer{
+	color: yellow;
+	background: blue;
+	padding: 15px;
+}
+.column{
+	float: left;
+	padding: 15px;
+}
+.clearfix:after{
+	content: "";
+	clear: both;
+	display: table;
+	
+}
+.content{
+	width: 75%;
+}
+/*menu*/
+.menu{
+	width: 25%;
+}
+.menu a{
+	text-decoration: none;
+	padding: 8px;
+	margin-bottom: 8px;
+	background: blue;
+	color: yellow;
+	display: block;
+}
+.menu a:hover{
+	background: navy;
+	color: tomato;
+}
+/*buttom up page*/
+.up a{
+	text-decoration: none;
+	padding:15px;
+	border-radius: 25px;
+	margin: 10px;
+	background: tomato;
+	color: white;
+	position: fixed;
+	bottom: 0;
+}
+.up a:hover{
+	background:blue;
+	color:yellow;
+}
+/*Player's table*/
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th{
+	background: blue;
+	color: yellow;
+}
+
+tr:nth-child(even){
+	background: #f2f2f2;
+}
+tr:hover{
+	background: silver;
+}
