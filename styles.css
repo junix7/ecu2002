@@ -42,9 +42,15 @@ body{
 	margin-top: 15px;
 	padding: 15px;
 }
-/*menu*/
-.menu{
+/*ads*/
+.ads{
 	width: 25%;
+}
+.menu{
+	width: 75%;
+	position: fixed;
+	top: 0;
+	margin-top: 155px;
 }
 .menu a{
 	text-decoration: none;
@@ -54,26 +60,39 @@ body{
 	color: #FFE001;
 	display: block;
 	font-weight: bold;
+	width: 25%;
 }
 .menu a:hover{
 	background: navy;
 	color: tomato;
 }
+
 /*buttom up page*/
 .up a{
 	text-decoration: none;
-	padding:15px;
+	padding:10px;
 	border-radius: 25px;
 	margin: 10px;
 	background: tomato;
 	color: white;
 	position: fixed;
 	bottom: 0;
+	font-size: 18px;
+	font-style: bold;
+
 }
 .up a:hover{
 	background:blue;
 	color:#FFE001;
 }
+/*Images*/
+img{
+	opacity: 0.8;
+}
+img:hover{
+	opacity: 1.0;
+}
+
 /*Player's table*/
 table, th, td{
 	border: 1px solid black;
@@ -92,4 +111,7 @@ tr:nth-child(even){
 }
 tr:hover{
 	background: silver;
+}
+#inicio , #seleccion , #partidos , #tabla , #otros{
+	margin-bottom: 70px;
 }
