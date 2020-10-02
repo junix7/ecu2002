@@ -14,6 +14,7 @@ Este proyecto web, tiene como objetivo rendir un pequeño homenaje a todas aquel
 2.- Abre ```index.html``` en tu navegador favorito.
 
 ## Demo 💿️
+![label image](https://github.com/junix7/ecu2002/blob/master/images/ecu2002_preview.png)
 
 Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.io/ecu2002/)
 
