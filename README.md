@@ -4,7 +4,7 @@
 
 ## Descripción 📝️
 
-Este proyecto web, tiene como objetivo rendir un pequeño homenaje a todas aquellas personas,  que hicieron posible la clasificación de la selección ecuatoriana de fútbol , al mundial de Corea-Japón 2002.
+El presente proyecto web, tiene como objetivo rendir un pequeño homenaje a todas aquellas personas,  que hicieron posible la clasificación de la selección ecuatoriana de fútbol , al mundial de Corea-Japón 2002.
 
 ## Instalación 🔧️
 
