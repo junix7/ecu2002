@@ -24,7 +24,7 @@ Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.
 
 ## Licencia 📃️
 
-The MIT License (MIT)
+The MIT License (MIT).
 
 ## Agradecimientos 🎁️
 
